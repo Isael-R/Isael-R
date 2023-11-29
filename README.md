@@ -6,7 +6,7 @@ Atualmente Eletricista, Estou em transição de carreira para aréa da programç
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://www.google.com/search?q=imagem+sql&sca_esv=586106243&rlz=1C1CHBD_pt-PTBR1083BR1083&tbm=isch&sxsrf=AM9HkKlbwxga9dYoDSGhpjr0qE2_v4UtmA:1701217246578&source=lnms&sa=X&ved=2ahUKEwj84quN-OeCAxVyJrkGHVC9A_MQ_AUoAXoECAMQAw&biw=1920&bih=963&dpr=1#imgrc=18gOf4b7n3XBOM" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />&nbsp;&nbsp;
 </div> 
 
