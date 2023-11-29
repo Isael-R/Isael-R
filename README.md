@@ -6,11 +6,7 @@ Atualmente Eletricista, Estou em transição de carreira para aréa da programç
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          &nbsp;&nbsp; 
-  
+  &nbsp;&nbsp;<img width='50' height='50' src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
 
           
           
