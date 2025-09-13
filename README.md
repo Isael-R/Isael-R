@@ -2,7 +2,7 @@
 Atualmente trabalho como Eletricista, Estou em transição de carreira para aréa da programção. Curioso sobre Ethical Hacker e Estudando sobre Investimentos nas horas vagas.
 
 - 👨🏽‍🎓 **Estudante** de Ciência de Dados na [Faculdade Impacta](https://www.impacta.edu.br/)
-- 🎸 Apaixonado por **Violão**
+-  Apaixonado por **Musicas**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
